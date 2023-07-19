@@ -10,7 +10,7 @@
     "posicion": "MED",
     "edad": "24",
     "dorsal": "16",
-    "img": "//ichef.bbci.co.uk/news/640/cpsprodpb/2C5C/production/_91465311_b36f5339-b5a0-489e-adc8-e705a3463521.jpg",
+    "img": "//ichef.bbci.co.uk/news/640/cpsprodpb/2C5C/production/_91465311_b36f5339-b5a0-489e-adc8-e705a3463521.jpg"
   },
   {
     "id":"2",
@@ -22,7 +22,7 @@
     "posicion": "DEF",
     "edad": "27",
     "dorsal": "4",
-    "img": "https://medlineplus.gov/images/DownSyndrome.jpg",
+    "img": "https://medlineplus.gov/images/DownSyndrome.jpg"
   },
   {
     "id":"3",
@@ -34,7 +34,7 @@
     "posicion": "DEL",
     "edad": "26",
     "dorsal": "112",
-    "img": "https://img.europapress.es/fotoweb/fotonoticia_20221006181958_640.jpg",
+    "img": "https://img.europapress.es/fotoweb/fotonoticia_20221006181958_640.jpg"
   },
   {
     "id":"4",
@@ -46,7 +46,7 @@
     "posicion": "DEL",
     "edad": "34",
     "dorsal": "9",
-    "img": "//ichef.bbci.co.uk/news/640/cpsprodpb/2C5C/production/_91465311_b36f5339-b5a0-489e-adc8-e705a3463521.jpg",
+    "img": "//ichef.bbci.co.uk/news/640/cpsprodpb/2C5C/production/_91465311_b36f5339-b5a0-489e-adc8-e705a3463521.jpg"
   },
   {
     "id":"5",
@@ -58,7 +58,7 @@
     "posicion": "MED",
     "edad": "33",
     "dorsal": "8",
-    "img": "https://medlineplus.gov/images/DownSyndrome.jpg",
+    "img": "https://medlineplus.gov/images/DownSyndrome.jpg"
   },
   {
     "id":"6",
@@ -70,7 +70,7 @@
     "posicion": "DEF",
     "edad": "30",
     "dorsal": "6",
-    "img": "https://img.europapress.es/fotoweb/fotonoticia_20221006181958_640.jpg",
+    "img": "https://img.europapress.es/fotoweb/fotonoticia_20221006181958_640.jpg"
   },
   {
     "id":"7",
@@ -82,7 +82,7 @@
     "posicion": "DEL",
     "edad": "24",
     "dorsal": "7",
-    "img": "//ichef.bbci.co.uk/news/640/cpsprodpb/2C5C/production/_91465311_b36f5339-b5a0-489e-adc8-e705a3463521.jpg",
+    "img": "//ichef.bbci.co.uk/news/640/cpsprodpb/2C5C/production/_91465311_b36f5339-b5a0-489e-adc8-e705a3463521.jpg"
   },
   {
     "id":"8",
@@ -94,7 +94,7 @@
     "posicion": "MED",
     "edad": "26",
     "dorsal": "16",
-    "img": "https://medlineplus.gov/images/DownSyndrome.jpg",
+    "img": "https://medlineplus.gov/images/DownSyndrome.jpg"
   },
   {
     "id":"9",
@@ -106,7 +106,7 @@
     "posicion": "DEF",
     "edad": "28",
     "dorsal": "4",
-    "img": "https://img.europapress.es/fotoweb/fotonoticia_20221006181958_640.jpg",
+    "img": "https://img.europapress.es/fotoweb/fotonoticia_20221006181958_640.jpg"
   },
   {
     "id":"10",
@@ -118,7 +118,7 @@
     "posicion": "MED",
     "edad": "33",
     "dorsal": "10",
-    "img": "https://img.europapress.es/fotoweb/fotonoticia_20221006181958_640.jpg",
+    "img": "https://img.europapress.es/fotoweb/fotonoticia_20221006181958_640.jpg"
   },
   {
     "id":"11",
@@ -130,7 +130,7 @@
     "posicion": "MED",
     "edad": "37",
     "dorsal": "24",
-    "img": "https://img.europapress.es/fotoweb/fotonoticia_20221006181958_640.jpg",
+    "img": "https://img.europapress.es/fotoweb/fotonoticia_20221006181958_640.jpg"
   },
   {
     "id":"12",
@@ -142,7 +142,7 @@
     "posicion": "MED",
     "edad": "27",
     "dorsal": "29",
-    "img": "https://img.europapress.es/fotoweb/fotonoticia_20221006181958_640.jpg",
-  },
+    "img": "https://img.europapress.es/fotoweb/fotonoticia_20221006181958_640.jpg"
+  }
   ]
 }
